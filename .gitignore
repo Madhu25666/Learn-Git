@@ -1,0 +1,2 @@
+#ignore vsc workspaces files
+*.code-workspace
